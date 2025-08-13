@@ -1,6 +1,6 @@
 # Core parsing
 PyMuPDF==1.23.9          # PDF parser
-nltk==3.8.1              # Sentence tokenizer
+nltk==3.9              # Sentence tokenizer
 
 # HTML and EPUB handling
 beautifulsoup4==4.12.3   # HTML parsing
@@ -20,4 +20,4 @@ openai==1.23.2           # For embedding/testing with OpenAI
 python-dotenv==1.0.1     # .env-based config for secrets, paths
 
 # HTTP client library used to interact with the Apify API
-requests==2.31.0
+requests==2.32.4
